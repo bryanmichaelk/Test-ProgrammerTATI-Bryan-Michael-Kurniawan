@@ -51,6 +51,23 @@ _After downloading all prequities, you can follow this setup steps:_
    npm run dev
    ```
 
+### Akun:
+##### 1. Kepala Dinas
+email: kepala.dinas@example.com
+password: kepaladinas
+##### 2. Kepala Bidang 1
+email: kepala.bidang1@example.com
+password: kepalabidang1
+##### 3. Kepala Bidang 2
+email: kepala.bidang2@example.com
+password: kepalabidang2
+##### 4. Staff 1
+email: staff1@example.com
+password: staff1
+##### 5. Staff 2
+email: staff2@example.com
+password: staff2
+
 ## Setup Project Wilayah API
 
 _After downloading all prequities, you can follow this setup steps:_
